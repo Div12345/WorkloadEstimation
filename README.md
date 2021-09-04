@@ -17,6 +17,8 @@ Ensembling of techniques using the fundamental properties of covariance matrices
 
 # Validation
 Training on the second session gives better generalization and prediction on the first session data based on some preliminary runs, and so this was chosen as the measure of validating the performance of the algorithms.
+![image](https://user-images.githubusercontent.com/47829318/132094695-3905c7d6-0922-4655-906a-13356f5743b3.png)
+
 
 # Results
 Placed 4th
