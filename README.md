@@ -13,7 +13,7 @@ Target - To predict workload class on 3rd session for each subject.
 EEG signals are highly non-stationary and can drift in terms of amplitude and other features over time, even within a day for a particular user. So, there is a need for algorithms capable of inter-session transfer learning such that the calibration is minimized or eliminated for the next session.
 
 # Methods
-Ensembling of techniques using the fundamental properties of covariance matrices through Riemannian geometry and combined with unsupervised learning using an adaptive kernel for tangent space projection.
+Ensembling of techniques using the fundamental properties of covariance matrices through Riemannian geometry combined with unsupervised transfer learning using an adaptive kernel for tangent space projection.
 
 # Validation
 Training on the second session gives better generalization and prediction on the first session data based on some preliminary runs, and so this was chosen as the measure of validating the performance of the algorithms.
