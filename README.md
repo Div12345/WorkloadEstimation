@@ -1,12 +1,15 @@
 # WorkloadEstimation
-Codebase for Passive BCI Hackathon - Neuroergonomics Conference 2021 - Intra-Subject Inter-Session Transfer Learning for Workload Estimation
+
+Intra-Subject Inter-Session Transfer Learning for 3-class Workload Estimation on EEG data.
+
+Codebase for submission to Passive BCI Hackathon - Neuroergonomics Conference 2021
 
 Competition Site - [Link](https://www.neuroergonomicsconference.um.ifi.lmu.de/pbci/)
 
 # Data
 Data & instructions available [here](https://zenodo.org/record/4917218#.YNGIVi3pODW)
 
-15 subjects, 3 sessions (different workload levels)
+15 subjects, 3 sessions - 3 different workload levels in each session presented in a pseudorandom manner
 
 First 2 sessions available with labelled dataset. 
 Target - To predict workload class on 3rd session for each subject.
