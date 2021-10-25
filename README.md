@@ -32,4 +32,4 @@ Training on the second session gives better generalization and prediction on the
 
 
 # Results
-Placed 4th
+Placed 4th with 46.3% accuracy (Within 2% of 3rd and 2nd placed models and 8% of top model)
