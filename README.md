@@ -6,6 +6,8 @@ Codebase for submission to Passive BCI Hackathon - Neuroergonomics Conference 20
 
 Competition Site - [Link](https://www.neuroergonomicsconference.um.ifi.lmu.de/pbci/)
 
+The finer details of the method is provided in the presentation and abstract report. The extended abstract is also slated to be published in the conference proceedings in [Frontiers in Neuroergonomics](https://www.frontiersin.org/journals/neuroergonomics)
+
 # Data
 Data & instructions available [here](https://zenodo.org/record/4917218#.YNGIVi3pODW)
 
